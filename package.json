@@ -1,7 +1,7 @@
 {
   "name": "orders",
   "scripts": {
-    "dev": "tsx watch main.ts",
+    "dev": "tsx watch src/main.ts",
     "build": "tsc",
     "start": "node dist/index.js"
   },
